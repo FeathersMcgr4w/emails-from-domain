@@ -1,8 +1,10 @@
-# Search emails-from-domain
+# OSINT Search emails from company domains
 
-Python script to search for emails from a specific domain and subdomians.
+Python script to search for emails from a specific company domain and subdomians.
 
 --> **Use:** python3 find-emails-employees.py example-domain.com
+
+--> **Example:** python3 find-emails-employees.py telefonica.com
 
 ---
 
@@ -31,7 +33,7 @@ Here I help you how to do it: https://www.youtube.com/watch?v=4YhxXRPKI0c (Tutor
 
 ---
 
-### 3) Results per page
+### 4) Results per page
 
 You can change the parameter of the number of results per page as you wish.
 
