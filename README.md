@@ -27,7 +27,7 @@ Here I help you how to do it: https://www.youtube.com/watch?v=4YhxXRPKI0c (Tutor
 
 ##### Set Api key into the script:
 
-![set-api-key](https://github.com/FeathersMcgr4w/emails-from-domain/images/set-api-screenshot.png)
+![set-api-key](./images/set-api-screenshot.png)
 
 ---
 
@@ -35,7 +35,7 @@ Here I help you how to do it: https://www.youtube.com/watch?v=4YhxXRPKI0c (Tutor
 
 You can change the parameter of the number of results per page as you wish.
 
-![results-per-page](https://github.com/FeathersMcgr4w/emails-from-domain/images/results-per-page.png)
+![results-per-page](./images/results-per-page.png)
 
 ---
 
