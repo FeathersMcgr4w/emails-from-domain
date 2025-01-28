@@ -1,0 +1,7 @@
+requests
+re
+time
+random
+signal
+sys
+pwntools
