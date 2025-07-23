@@ -8,8 +8,14 @@ python3 ./find-emails-employees.py
 ```
 #### **Example:** 
 ```bash
-python3 ./find-emails-employees.py telefonica.com
+python3 ./find-emails-employees.py example.com
 ```
+---
+## 📄 Results
+
+All results are obtained from public sources
+
+![results_find_emails](./images/results_find_emails_employees.png)
 
 ---
 ## 🚀 Getting Started
